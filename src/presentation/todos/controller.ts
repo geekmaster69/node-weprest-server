@@ -62,6 +62,7 @@ export class TodosController {
 
 
         //! Ojo, el objeto esta pasando por referencia
+        // ? :)
 
         res.json(todo);
     }
